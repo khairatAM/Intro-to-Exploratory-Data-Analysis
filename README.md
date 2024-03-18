@@ -1,1 +1,1 @@
-In this simple task, we carry out simple data exploration in Python. We perform data cleaning and feature engineering. Pandas dataframes, numpy and seaborn for data visualization are utilized.
+In this simple task, we carry out simple data exploration in Python. We perform data cleaning and feature engineering on the world happiness dataset of 2015 [https://www.kaggle.com/datasets/unsdsn/world-happiness]. Pandas dataframes, numpy, matplotlib and seaborn for data visualization are utilized.
